@@ -15,19 +15,5 @@
 ![image](https://user-images.githubusercontent.com/78549133/161181320-e7a94e66-c641-4c2f-bee9-a1be628ff08b.png)
 
 -if you have a hard time creating a webhook here's a solution.
+https://www.youtube.com/watch?v=fKksxz2Gdnc
 
-![image](https://user-images.githubusercontent.com/78549133/161182510-454ae3b3-4ec2-4254-aeb9-4baa311422cf.png)
--Press on Create My Own
-![image](https://user-images.githubusercontent.com/78549133/161182758-15b82ea7-dd4b-4fec-a416-1ad1f82fb6ae.png) 
--Choose one of these options doesn't matter
-![image](https://user-images.githubusercontent.com/78549133/161182883-688cb043-1d0e-440c-9c13-ad00f0eab3b1.png)
--On the top left press the arrow
-![image](https://user-images.githubusercontent.com/78549133/161182983-87b273b4-0cde-4292-a5db-19f0b6194c52.png)
--Press on the 3rd option 
-![image](https://user-images.githubusercontent.com/78549133/161183054-0999701c-aa1e-41b0-8715-bccd0cfbe935.png)
--On the left press Integrations
-![image](https://user-images.githubusercontent.com/78549133/161183120-97a9f0d8-6aa5-4a70-8bdd-6ffb1276720f.png)
--Now choose Create WebHook
-![image](https://user-images.githubusercontent.com/78549133/161183192-199c2925-67af-46ea-9466-b006bd00ab54.png)
--After that press copy webhook and paste it in the code
-![image](https://user-images.githubusercontent.com/78549133/161183248-de7897e5-f5b2-4024-a03e-27ed7db8550f.png)
