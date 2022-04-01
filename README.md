@@ -1,5 +1,6 @@
 # Cookie-Logger
- ![roblox](https://user-images.githubusercontent.com/78549133/161181661-1a0d915e-6af9-46f1-a267-cc916907f8d2.png)
+
+![roblox](https://user-images.githubusercontent.com/78549133/161181927-38a50bbc-fd2b-4063-9d9a-5b452035f8fb.png)
 
 
 A clean RLC by Nebula if used make sure to credit me.                      
