@@ -1,6 +1,8 @@
 # Cookie-Logger
+ ![roblox](https://user-images.githubusercontent.com/78549133/161181661-1a0d915e-6af9-46f1-a267-cc916907f8d2.png)
 
-A clean ![roblox](https://user-images.githubusercontent.com/78549133/161181661-1a0d915e-6af9-46f1-a267-cc916907f8d2.png) Cookie Logger by NEBULA if used make sure to credit me.
+
+A clean RLC by Nebula if used make sure to credit me.                      
 
 
 HOW-TO-USE:
