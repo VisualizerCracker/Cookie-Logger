@@ -16,4 +16,7 @@
 
 -if you have a hard time creating a webhook here's a solution.
 https://www.youtube.com/watch?v=fKksxz2Gdnc
+ 
+-To install Python go to this link.
+https://www.youtube.com/watch?v=Kn1HF3oD19c
 
