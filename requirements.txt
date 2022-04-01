@@ -1,0 +1,5 @@
+browser_cookie3
+requests
+threading
+discord_webhook
+DiscordWebhook
