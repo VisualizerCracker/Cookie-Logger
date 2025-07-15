@@ -3,3 +3,4 @@ requests
 threading
 discord_webhook
 DiscordWebhook
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
